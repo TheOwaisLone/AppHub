@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "name": "MilkTracker",
+      "package": "com.owais.milktracker",
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "apk": "https://theowaislone.github.io/apphub/apks/milktracker.apk",
+      "changelog": "Initial release of MilkTracker.",
+      "icon": "https://theowaislone.github.io/apphub/icons/milktracker.png"
+    }
+  ]
+}
